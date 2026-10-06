@@ -83,3 +83,5 @@ B.Tech – Computer Science and Engineering | 2026
 ⭐ Project Status
 Completed Learning Project
 Built as part of my learning journey in Python and Data Analytics.
+PROJECT LINK:
+https://student-performance-analytics-dashboard-project-nfj3cjbripde9k.streamlit.app/
